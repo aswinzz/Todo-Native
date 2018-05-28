@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "icon": "./logo.png",
+    "name": "Todo",
+    "android": {
+      "package": "com.avb.todoapp"
+    },
+    "description":"make your life easier with this todo app!"
+  }
+}
